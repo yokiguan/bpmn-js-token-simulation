@@ -11,6 +11,8 @@ insertCSS('style.css', [
 
 insertCSS('diagram-js.css', require('diagram-js/assets/diagram-js.css'));
 
+insertCSS('bpmn-js.css', require('bpmn-js/assets/bpmn-js.css'));
+
 insertCSS('bpmn-font.css', require('bpmn-js/dist/assets/bpmn-font/css/bpmn-embedded.css'));
 
 insertCSS('diagram-js-testing.css',
