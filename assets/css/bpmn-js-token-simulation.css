@@ -18,8 +18,9 @@
 }
 
 .bjs-breadcrumbs {
+  /* ensure breadcrumbs don't overlap with token-simulation controls */
   top: 60px;
-  left: 60px;
+  left: 50px;
 }
 
 .bjs-container.simulation {

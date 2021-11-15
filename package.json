@@ -44,7 +44,7 @@
     "*.css"
   ],
   "devDependencies": {
-    "bpmn-js": "^8.6.0",
+    "bpmn-js": "^9.0.0-subprocesses.3",
     "chai": "^3.5.0",
     "copy-webpack-plugin": "^8.1.1",
     "eslint": "^7.26.0",
